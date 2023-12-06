@@ -22,7 +22,7 @@ This repository is dedicated to the preparation and organization of the Towson C
 
 3. **Contribute to the repository:**
 
-   ## Contributing
+## Contributing
 - **Fork the repository.**
 - **Create a new branch for your contribution:**
 
