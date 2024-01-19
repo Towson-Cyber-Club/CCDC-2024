@@ -15,7 +15,7 @@ This repository is dedicated to the preparation and organization of the Towson C
 ## Getting Started
 
 1. **Clone the repository to your local machine:**
-  ```git clone https://github.com/TowsonCDC/CCDC-Staging.git```
+  ```git clone https://github.com/Towson-Cyber-Club/CCDC-2024```
 
 2. **Review the documentation:**
 - Navigate to the `docs` directory for information on the setup, tools, and procedures.
